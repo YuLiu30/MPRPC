@@ -1,4 +1,0 @@
-17:16:5 => [error]first log message!
-17:16:5 => [error]/home/ubuntu/MPRPC/example/callee/friendservice.cc:main:53
-17:16:5 => [info]service_name:FriendServiceRpc
-17:16:5 => [info]method_name:GetFriendsList

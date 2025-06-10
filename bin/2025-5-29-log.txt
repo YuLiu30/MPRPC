@@ -1,3 +1,0 @@
-
-&d:16:58 => first log message!
-&d:16:58 => /home/ubuntu/MPRPC/example/callee/friendservice.cc:main:53

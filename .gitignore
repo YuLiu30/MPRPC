@@ -1,0 +1,10 @@
+
+build/
+bin/
+*.o
+*.out
+*.pb.cc
+*.pb.h
+*.log
+lib/*.a
+lib/*.so
